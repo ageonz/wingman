@@ -1,0 +1,8 @@
+
+# Type the filename exactly as:   backups/.gitkeep
+# (typing the "/" auto-creates the backups/ folder)
+# Leave the file body COMPLETELY EMPTY — 0 bytes — then Commit to main.
+# Its only job is to keep the empty backups/ folder alive in the repo until the
+# first "Backup Now" from the Q admin build commits a real snapshot there.
+# NOTE: GitHub's drag-and-drop uploader silently skips dotfiles — always use
+# "Create new file" for .gitkeep and .gitignore.
