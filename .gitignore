@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+.env
+.env.*
+*.token
+*.pat
+node_modules/
+
+# Timestamped repo backups ARE meant to be committed (rollback history).
+# If you prefer backups local-only instead, uncomment the next line:
+# backups/*.html
